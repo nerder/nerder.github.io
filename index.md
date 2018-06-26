@@ -1,5 +1,6 @@
 # Stefano Saitta
-Software engineer
+<img src="./media/me.jpg" />
+**Software engineer**
 
 I’m a *26* years old full stack developer with 5+ yr of experience not afraid to experiment and break things.
 
