@@ -28,9 +28,9 @@ In my 2+ years I’ve covered different roles in several teams, aligned with my 
 
 My main goal at build was learning. Here I had the possibility to experiment cutting edge technologies such as ReactJS, Redux and Docker. The company value was strongly related to open source so I was able to create and publish my work on several ReactJS Components used internally for project of huge dimension. I also had to do a small security audit of the internal softwares, and i was involved in the design of a simplified version of OAuth for an internal requirement
 
-### Junior Software Engineer @ Settle
+### Junior Software Engineer @ Stentle
 
-I joined this early stage startup as a solo developer. I was entirely responsible of the product development along the CEO//CTO. I implemented RESTful APIs using Spring, I also maintained an AngularJS dashboard used by the clients as a back-office. My main challenge was to implement an SSO architecture, and the integration of various payment systems. I took care of the MongoDB database as well as the first rudimental CI//CD to deploy and ship the product. I had a first overview on Docker and RabbitMQ.
+I joined this early stage startup as a solo developer. I was entirely responsible of the product development along the CEO/CTO. I implemented RESTful APIs using Spring, I also maintained an AngularJS dashboard used by the clients as a back-office. My main challenge was to implement an SSO architecture, and the integration of various payment systems. I took care of the MongoDB database as well as the first rudimental CI/CD to deploy and ship the product. I had a first overview on Docker and RabbitMQ.
 
 ### Junior Software Engineer @ Bhuman
 
