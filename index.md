@@ -6,12 +6,13 @@
 # Stefano Saitta
 **Software engineer**
 
-I’m a *27* years old full stack developer with 5+ yr of experience not afraid to experiment and break things.
+I’m a *28* years old full stack developer with 8+ yr of experience not afraid to experiment and break things.
 
-Born and *raised in Milan*, I currently *live in Barcelona* for the last 4 years, the thing that helps me to learn and consolidate my Spanish as well as my *English* as I currently work for an international company. As a bonus language, I can put *Catalan* in which I have a fluent understanding.
+Born and *raised in Milan*, I've *lived in Barcelona* for the last 5 years learn and consolidate my *Spanish* as well as my *English* as I currently work for an international company. As a bonus language, I can put *Catalan* in which I have a fluent understanding. Now i'm back in *Milan* to found my company!
 
 - **Email**: <a href="stefano.saitta92@gmail.com">stefano.saitta92@gmail.com</a>
-- **Phone**: <a href="tel://+43633529977">+34 633 52 99 77</a>
+- **Phone (ES)**: <a href="tel://+34633529977">+34 633 52 99 77</a>
+- **Phone (IT)**: <a href="tel://+393478674067">+39 347 86 74 067</a>
 - **Github**: <a href="https://github.com/nerder/">@nerder</a>
 - **Linkedin**: <a href="https://www.linkedin.com/in/etcpasswd/">@etcpasswd</a>
 
@@ -55,6 +56,6 @@ This was my first professional job, the first three months I was trained and I f
 Since the beginning of my Bachelor's Degree studies in Computer Science at the University of Milan (UNIMI), I combined working and studying. At the end of the second year, I was already working as a Software Developer.
 
 <!-- ### Footer
-Last updated: June 2018 -->
+Last updated: July 2021 -->
 
 
